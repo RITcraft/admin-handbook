@@ -1,0 +1,9 @@
+language: python
+python:
+- 3.5
+install:
+- pip install -r requirements.txt
+script: "./test.sh"
+env:
+  global:
+    secure: aYC3KbfOHiHjp53/FpcZfQvOzqT42i8rBCmF5xV7oFWaB1/vcLBCGoSvB7x31uOxrFi6YoZsepXp6ucQ9ire5XS9boGUvKJmmUtKxa7y40kcXJ+l+EDiwT1lBNg348LHEWVx51Fo/GG2QcdbqMI5kRKJzZonuefVbWgmoNg7yurr0qusVIK7VTgQh68J1P3q3SSqPH6OiVJNc1pk2FWAvxWH/fRhUvcYUF456hIGk8k1mes62edtOz4cJHJvdikIcdwB9PdTG+AVdRLx3rvi4owkeO0vLOxCLgIF/o1FS9vaxUenu7BcR450fyH2NuEzMeCi7V3cjvpkZ9L2ivbwButADZFHROFePV8QXruv8Mq33S7tmaXau2XYSrsjPafnp+u0974af3eK+yu7MBxg3TqVSMuzme9ArbJdPVOerCtxcQQlImnvgPpZkevjBd+6lVvi4Y3hf1eCnLvr/sM16JMF0NZG989YI91Vp/Ra24EGkRtN+CS7fpO75+LSfg+JnMl6fowg5u6SXrVWe6Qpz1RxgK7i9a2eKj/FkjusevKvc4PiOrxasv4PXObTZ1gFmbZhwO9LRI1le+jT76zgn5Nf+Bvfrl/iM+rfoz4FCO+JXbLqhegmAtlYOIs3ehSnDyOxTzgEEg8H9ayymyi78CJh27YiwglwJcX3MPMje7k=
