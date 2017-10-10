@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'RITcraft Admin Handbook'
-copyright = '2017, Justin W. Flory'
+copyright = 'CC-BY-SA 4.0 - 2017, Justin W. Flory'
 author = 'Justin W. Flory'
 
 # The version info for the project you're documenting, acts as replacement for
