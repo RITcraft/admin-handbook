@@ -1,0 +1,3 @@
+Adjusting player permissions
+============================
+
